@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@600&family=Open+Sans:wght@700&family=Poppins&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@600&family=Open+Sans:wght@400;700&family=Poppins&display=swap");
+
+.box1 {
+  /* border: 2px solid black; */
+  width: 100px;
+  padding: 10px 25px 10px 25px;
+  height: 100px;
+  width: 220px;
+  margin-right: 37px;
+  border-radius: 20px;
+  background: #ddefe0;
+}
+.box2 {
+  /* border: 2px solid black; */
+  width: 100px;
+  padding: 10px 25px 10px 25px;
+  height: 100px;
+  width: 220px;
+  margin-right: 37px;
+  border-radius: 20px;
+  background: #f4ecdd;
+}
+.box3 {
+  /* border: 2px solid black; */
+  width: 100px;
+  padding: 10px 25px 10px 25px;
+  height: 100px;
+  width: 220px;
+  margin-right: 37px;
+  border-radius: 20px;
+  background: #efdada;
+}
+.box4 {
+  /* border: 2px solid black; */
+  width: 100px;
+  padding: 10px 25px 10px 25px;
+  height: 100px;
+  width: 220px;
+  background: #dee0ef;
+  border-radius: 20px;
+}
+
+.number {
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+
+  margin: 0;
+}
+.text {
+  font-family: Lato;
+  margin-bottom: 1px;
+  margin-top: 35px;
+  font-weight: 600;
+
+  text-align: left;
+}
+
+.mainbox {
+  display: flex;
+  /* border: 3px solid rgb(255, 3, 3); */
+  margin-top: 40px;
+}

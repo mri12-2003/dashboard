@@ -1,0 +1,14 @@
+.main {
+  position: absolute;
+  background: #c3fbff;
+  border-radius: 30px;
+
+  height: 110vh;
+  /* width: 320px; */
+  width: 1147px;
+  padding: 25px;
+  left: 320px;
+  margin-top: 0;
+  top: 0px;
+  border-radius: 10px;
+}
